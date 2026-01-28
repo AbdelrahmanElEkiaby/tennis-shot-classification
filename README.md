@@ -31,8 +31,7 @@ Analyzing broadcast tennis footage is challenging due to **occlusion**, **camera
   - Environment: Google Colab (GPU).
   - Monitoring: TensorBoard, accuracy/loss curves.
 
-### Pipeline (vertical)
-![Workflow Vertical](workflow_vertical.png)
+
 
 ## RESULTS
 
